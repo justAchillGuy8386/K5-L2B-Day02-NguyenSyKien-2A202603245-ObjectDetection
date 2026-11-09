@@ -7,7 +7,7 @@
 - Email: kienns@example.com
 - Lớp: K5-L2B
 - Link repo bài làm: https://github.com/justAchillGuy8386/K5-L2B-Day02-NguyenSyKien-2A202603245-ObjectDetection
-- Link Colab đã chạy: (Dán link Colab đã chia sẻ quyền xem tại đây)
+- Link Colab đã chạy: https://colab.research.google.com/drive/184RrQW-lpxyW13sLgIt9J16w3Iu1v1CX?usp=sharing
 
 ## 2. Schema và mini guideline
 
